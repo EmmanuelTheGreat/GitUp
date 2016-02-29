@@ -37,6 +37,8 @@ public class MainActivity extends ActionBarActivity {
         private void ttt(){
 
         int i = 1;
+        int ii = 2+2;
+        int iii = i+ ii;
     }
     }
 }
